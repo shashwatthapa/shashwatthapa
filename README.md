@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shashwat Thapa</h1>
 <h3 align="center">Exploring web development and machine learning</h3>
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
-<p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="shashwatthapa" /> </p>
+<p align="left"> 
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="shashwatthapa" /> </p>
 
 - 📫 How to reach me **thapashashwat@gmail.com**
 
